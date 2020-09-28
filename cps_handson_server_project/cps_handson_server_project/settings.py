@@ -46,7 +46,7 @@ INSTALLED_APPS = [
     # 3rd-party apps
     # Djangoにrest_frameworkアプリを登録する
     'rest_framework',
-    'rest_framework_swagger',
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
