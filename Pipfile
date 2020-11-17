@@ -14,4 +14,5 @@ drf-yasg = "*"
 python_version = "3.8"
 
 [scripts]
-start = "python manage.py runserver"
+start = "python ./cps_handson_server_project/manage.py runserver"
+migrate = "python ./cps_handson_server_project/manage.py migrate"
