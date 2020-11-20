@@ -5,7 +5,7 @@ from django.shortcuts import render
 # from .serializers import HandsonSerializer
 
 # Create your views here.
-# APIのエンドポイントを生成する。APIサーバ的にはAPIエンドポイントこそがViewなのだ。
+# APIのエンドポイントを生成する.
 # モデルの整形などもここで行う
 # class HandsonList(generics.ListCreateAPIView):
 #     queryset = Handson.objects.all()
