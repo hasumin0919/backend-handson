@@ -11,7 +11,7 @@ djangorestframework = "*"
 drf-yasg = "*"
 
 [requires]
-python_version = "3.8"
+python_version = "3.9"
 
 [scripts]
 start = "python ./cps_handson_server_project/manage.py runserver"
